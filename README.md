@@ -26,4 +26,4 @@ $ ./minimum_operations.py
 
 Replace `n` with the desired number for which you want to calculate the minimum operations.
 ## Author
-Lscblack
+Attorney Valois NIYIGABA
